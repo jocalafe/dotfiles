@@ -1,0 +1,6 @@
+[core]
+	editor = nvim
+[user]
+	name = jocalafe
+[pull]
+	rebase = true
