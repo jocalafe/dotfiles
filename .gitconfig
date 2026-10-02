@@ -1,6 +1,9 @@
 [core]
 	editor = nvim
 [user]
-	name = jocalafe
+	name = Jose Landeros
+	email = jose.landeros@scopely.com
 [pull]
 	rebase = true
+[push]
+	autoSetupRemote = true

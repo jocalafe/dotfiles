@@ -1,0 +1,12 @@
+# Vim-style focus movement between Ghostty splits: Option+Command+H/J/K/L.
+keybind = alt+super+h=goto_split:left
+keybind = alt+super+j=goto_split:down
+keybind = alt+super+k=goto_split:up
+keybind = alt+super+l=goto_split:right
+
+# Cycle tabs with Command+H/L.
+keybind = super+h=previous_tab
+keybind = super+l=next_tab
+
+# Close surfaces without prompting when a process is running.
+confirm-close-surface = false

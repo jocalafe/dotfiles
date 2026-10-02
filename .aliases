@@ -1,3 +1,2 @@
 alias vim='nvim'
-alias ls='exa --icons'
-
+alias pip='pip3'
